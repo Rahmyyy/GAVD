@@ -9,4 +9,4 @@ Gait Abnormality in Video Dataset (GAVD) is the largest collection of online lin
 
 <img src="figures/person-centric.png" alt="Camera View Annotations" width="600"/>
 ## Data
-<img src="figures/GAVD_data_sample.png" alt="Example GAVD Annotation Data Structure" width="600"/>
+<img src="figures/GAVD_data_sample.png" alt="Example GAVD Annotation Data Structure" width="900"/>
