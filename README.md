@@ -19,16 +19,14 @@ Data is provided as pkl files part 1 to 5 or csv files part 1 to 5.
 |*Data Column*|*Description*|
 |:-----------------:|:--------:|
 | seq |   sequnce ID unique to a section of gait in single direction  |
-
-seq - sequnce ID unique to a section of gait in single direction
-frame_num - corresponding frame number of video
-cam_view - Annotated person-centric view
-gait_event - clinically annotated gait event (NOTE: this is limited in this current dataset)
-dataset - general classificaiton of normal and abnomral gait
-gait_pat - clinically annotated classification of gait from observation by clinican
-bbox - bounding box values tracking indiviuals gait
-vid_info - video related metadata
-id - video youtube id
-url - url to access video
+|frame_num | corresponding frame number of video|
+|cam_view | Annotated person-centric view|
+|gait_event | clinically annotated gait event (NOTE: this is limited in this current dataset)|
+|dataset | general classificaiton of normal and abnomral gait|
+|gait_pat | clinically annotated classification of gait from observation by clinican|
+|bbox | bounding box values tracking indiviuals gait|
+|vid_info | video related metadata|
+|id | video youtube id|
+|url | url to access video|
 
 <img src="figures/GAVD_data_sample.png" alt="Example GAVD Annotation Data Structure" width="900"/>
