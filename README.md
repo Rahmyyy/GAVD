@@ -30,3 +30,14 @@ Data is provided as pkl files part 1 to 5 or csv files part 1 to 5.
 |url | url to access video|
 
 <img src="figures/GAVD_data_sample.png" alt="Example GAVD Annotation Data Structure" width="900"/>
+
+Please use the following citation if you find our work uesful:
+
+```
+@article{ranjan2024:GAVD,
+  title={Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset},
+  author={Ranjan, Rahm and Ahmedt-Aristizabal, David and Armin, Mohammad Ali and Kim, Juno},
+  journal={arXiv preprint arXiv:2407.04190},
+  year={2024}
+}
+```
