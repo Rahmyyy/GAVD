@@ -1,5 +1,5 @@
 # GAVD
-Gait Abnormality in Video Dataset (GAVD) is the largest collection of online links to gait videos with clinical annotations. The dataset is designed for Clinical Gait Analysis using computer vision however has many applicaitons such as gait recognition and abnormality action detection. For further details regarding dataset please see [LINK TO arXiv PAPER](https://arxiv.org/abs/2407.04190)
+Gait Abnormality in Video Dataset (GAVD) is the largest collection of online links to gait videos with clinical annotations. The dataset is designed for Clinical Gait Analysis using computer vision however has many applicaitons such as gait recognition and abnormality action detection. For further details regarding dataset please see the published paper [LINK IEEE ACESS PAPER](https://ieeexplore.ieee.org/document/10921672)]
 
 <img src="figures/GAVD_examples.png" alt="GAVD example frames" width="900"/>
 
@@ -34,10 +34,20 @@ Data is provided as pkl files part 1 to 5 or csv files part 1 to 5.
 Please use the following citation if you find our work uesful:
 
 ```
-@article{ranjan2024:GAVD,
-  title={Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset},
-  author={Ranjan, Rahm and Ahmedt-Aristizabal, David and Armin, Mohammad Ali and Kim, Juno},
-  journal={arXiv preprint arXiv:2407.04190},
-  year={2024}
-}
+Bibtex:
+@ARTICLE{Ranjan2025,
+  author={Ranjan, Rahm and Ahmedt-Aristizabal, David and Ali Armin, Mohammad and Kim, Juno},
+  journal={IEEE Access}, 
+  title={Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={45321-45339},
+  keywords={Gait recognition;Computer vision;Reviews;Biomedical monitoring;Monitoring;Accuracy;Legged locomotion;Visualization;Pathology;Motion capture;Clinical gait dataset;abnormal gait detection;vision-based action       recognition;gait pathology classification;annotated gait videos},
+  doi={10.1109/ACCESS.2025.3545787}}
+
+Plain Text:
+R. Ranjan, D. Ahmedt-Aristizabal, M. Ali Armin and J. Kim, "Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset," in IEEE Access, vol. 13, pp. 45321-45339, 2025, doi: 10.1109/ACCESS.2025.3545787.
+keywords: {Gait recognition;Computer vision;Reviews;Biomedical monitoring;Monitoring;Accuracy;Legged locomotion;Visualization;Pathology;Motion capture;Clinical gait dataset;abnormal gait detection;vision-based action recognition;gait pathology classification;annotated gait videos},
+
 ```
