@@ -1,7 +1,13 @@
 # GAVD
-Gait Abnormality in Video Dataset (GAVD) is the largest collection of online links to gait videos with clinical annotations. The dataset is designed for Clinical Gait Analysis using computer vision however has many applicaitons such as gait recognition and abnormality action detection. For further details regarding dataset please see the published paper [LINK TO IEEE ACCESS PAPER](https://ieeexplore.ieee.org/document/10921672)
+Gait Abnormality in Video Dataset (GAVD) is the largest collection of online links to gait videos with clinical annotations. The dataset is designed for Clinical Gait Analysis using computer vision however has many applicaitons such as gait recognition and abnormality action detection. For further details regarding dataset please see the published paper [LINK TO IEEE ACCESS PAPER](https://ieeexplore.ieee.org/document/10921672).
+
+## Access to Data Annotations
+Data annotations are publicly available in this repository [LINK TO DATA](https://github.com/Rahmyyy/GAVD/tree/main/data). It is available as CSV files or PKL file format. The full dataset annotations are provided as several files as we were unable to upload to github as a single file due to upload size limits.
 
 <img src="figures/GAVD_examples.png" alt="GAVD example frames" width="900"/>
+
+## Conditions of Data Use
+Data annotations are avilable and can be used as per licence [Licence Information](https://github.com/Rahmyyy/GAVD?tab=MIT-1-ov-file#readme)
 
 ## Dataset Features
 
