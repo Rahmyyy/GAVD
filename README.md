@@ -49,11 +49,10 @@ Bibtex:
   volume={13},
   number={},
   pages={45321-45339},
-  keywords={Gait recognition;Computer vision;Reviews;Biomedical monitoring;Monitoring;Accuracy;Legged locomotion;Visualization;Pathology;Motion capture;Clinical gait dataset;abnormal gait detection;vision-based action       recognition;gait pathology classification;annotated gait videos},
   doi={10.1109/ACCESS.2025.3545787}}
-
+```
+```
 Plain Text:
-R. Ranjan, D. Ahmedt-Aristizabal, M. Ali Armin and J. Kim, "Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset," in IEEE Access, vol. 13, pp. 45321-45339, 2025, doi: 10.1109/ACCESS.2025.3545787.
-keywords: {Gait recognition;Computer vision;Reviews;Biomedical monitoring;Monitoring;Accuracy;Legged locomotion;Visualization;Pathology;Motion capture;Clinical gait dataset;abnormal gait detection;vision-based action recognition;gait pathology classification;annotated gait videos},
-
+R. Ranjan, D. Ahmedt-Aristizabal, M. Ali Armin and J. Kim, "Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset," in IEEE Access, vol. 13, pp. 45321-45339, 2025,
+doi: 10.1109/ACCESS.2025.3545787.
 ```
